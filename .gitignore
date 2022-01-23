@@ -1,9 +1,5 @@
 __pycache__/
 *.pyc
-.coverage
-coverage.xml
-*.tox/
-*coverage_report/
 *build/
 *dist/
-*header-printer/header-printer.egg-info/
+*header-printer.egg-info/
