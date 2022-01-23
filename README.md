@@ -1,16 +1,10 @@
 ## header-printer
-
 Python package for printing a nicely formatted header.
-
-</br>
-
 ### Installation
-
-Run the following to install:
+Run the following command to install:
 ```shell
 pip install header-printer
 ```
-
 ### Usage
 In you script import and use function  `print_header`.
 ```python
@@ -27,6 +21,8 @@ The provided text will be centered.
 ********************************************
 
 ```
-</br>
-
-Extended documentation can be found [here](https://aroundpython.com/2021/06/13/tool-for-writing-algorithms/)
+### Development
+To install all dependencies required for local development, run:
+```shell
+make install-dev
+```
