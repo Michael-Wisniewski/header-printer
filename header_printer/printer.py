@@ -7,7 +7,7 @@ def print_header(text):
 
     formated_header = dedent(f"""
     {"*" * terminal_columns}
-    {text.center(terminal_columns)}XXXXX
+    {text.center(terminal_columns)}
     {"*" * terminal_columns}
     """)
 

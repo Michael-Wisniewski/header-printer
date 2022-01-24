@@ -1,5 +1,7 @@
 __pycache__/
 *.pyc
-*build/
-*dist/
-*header-printer.egg-info/
+*.ini
+build/
+dist/
+header_printer.egg-info/
+.tox/

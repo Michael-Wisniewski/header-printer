@@ -7,7 +7,7 @@ with open("README.md", "r", encoding="utf-8") as readme_file:
 
 setup(
     name="header-printer",
-    version="0.0.1",
+    version="0.0.7",
     description="Python package for printing a nicely formatted header.",
     author="Michał Wiśniewski",
     packages=["header_printer"],
